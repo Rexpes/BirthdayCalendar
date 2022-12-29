@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    display: flex;
+}
+
+.leftBox {
+    background-color: lightblue;
+    flex: 1;
+}
+
+.rightBox {
+    background-color: lightgreen;
+    flex: 5;
+}
